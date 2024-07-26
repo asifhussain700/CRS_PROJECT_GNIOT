@@ -1,0 +1,8 @@
+com.gniot.crs.app
+com.gniot.crs.bean
+com.gniot.crs.business
+com.gniot.crs.constant
+com.gniot.crs.dao
+com.gniot.crs.exception
+com.gniot.crs.rest
+com.gniot.crs.utils
